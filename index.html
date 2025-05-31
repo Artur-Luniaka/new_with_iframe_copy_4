@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Basketball Park: Streetball Challenge</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
+    <meta
+      name="description"
+      content="Step onto the court, show your skills, and dominate the streetball scene! Build your legacy in the park."
+    />
+  </head>
+  <body>
+    <div id="header-container"></div>
+
+    <section class="hero">
+      <div class="hero-content">
+        <h1 class="hero-title"></h1>
+        <p class="hero-description"></p>
+        <div class="hero-highlights"></div>
+      </div>
+    </section>
+
+    <section id="expansion" class="business-expansion">
+      <h2 class="section-title"></h2>
+      <p class="section-subtitle expansion-subtitle"></p>
+      <div class="expansion-features"></div>
+    </section>
+
+    <section id="how-to-play" class="how-to-play">
+      <h2 class="section-title"></h2>
+      <p class="section-subtitle how-to-play-subtitle"></p>
+      <div class="steps-container"></div>
+    </section>
+
+    <section id="game" class="game-container">
+      <div class="game-wrapper">
+        <iframe
+          src="https://html5.gamemonetize.co/red1ovg6fjny2ulquxvt4y3ah0xby91y/"
+          scrolling="no"
+          frameborder="0"
+          title="Basketball Park: Streetball Challenge"
+          loading="lazy"
+          allow="fullscreen"
+        >
+        </iframe>
+      </div>
+    </section>
+
+    <section id="features" class="features">
+      <h2 class="section-title"></h2>
+      <p class="section-subtitle features-subtitle"></p>
+      <div class="features-grid"></div>
+    </section>
+
+    <section id="reviews" class="reviews">
+      <h2 class="section-title"></h2>
+      <p class="section-subtitle reviews-subtitle"></p>
+
+      <div class="reviews-stats"></div>
+
+      <div class="reviews-grid"></div>
+    </section>
+
+    <div id="footer-container"></div>
+
+    <div class="cookie-bar">
+      <div class="cookie-bar-text">
+        We use cookies to enhance your experience. By continuing to visit this
+        site you agree to our use of cookies.
+      </div>
+      <div class="cookie-bar-buttons">
+        <button class="cookie-accept-btn">Accept</button>
+      </div>
+    </div>
+
+    <script src="js/main.js"></script>
+    <script>
+      // Cookie bar functionality
+      document.addEventListener("DOMContentLoaded", function () {
+        const cookieBar = document.querySelector(".cookie-bar");
+        const acceptBtn = document.querySelector(".cookie-accept-btn");
+
+        // Show cookie bar with animation
+        setTimeout(() => {
+          cookieBar.classList.add("show");
+        }, 1000);
+
+        // Handle accept button click
+        acceptBtn.addEventListener("click", () => {
+          cookieBar.classList.remove("show");
+        });
+      });
+    </script>
+  </body>
+</html>

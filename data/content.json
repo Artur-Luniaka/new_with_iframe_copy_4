@@ -1,0 +1,325 @@
+{
+  "header": {
+    "logo": "domain.com",
+    "navigation": [
+      {
+        "text": "Park",
+        "url": "./"
+      },
+      {
+        "text": "How to Play",
+        "url": "#how-to-play"
+      },
+      {
+        "text": "Park News",
+        "url": "./air-traffic-news.html"
+      },
+      {
+        "text": "Contact Us",
+        "url": "./contact-tower.html"
+      },
+      {
+        "text": "Game Rules",
+        "url": "./air-disclaimer.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Basketball Park: Streetball Challenge",
+    "description": "Step onto the court, show your skills, and dominate the streetball scene! Build your legacy in the park.",
+    "backgroundImage": "images/hero-bg.jpg",
+    "highlights": [
+      "Real-time Matches",
+      "Customizable Player",
+      "Dynamic Challenges",
+      "Unlock New Courts"
+    ]
+  },
+  "features": {
+    "title": "Game Features",
+    "subtitle": "Your Path to Streetball Glory",
+    "cards": [
+      {
+        "title": "One-on-One Showdowns",
+        "description": "Challenge opponents in intense 1v1 streetball matches. Master dribbling, shooting, and defense.",
+        "image": "images/img-1.png",
+        "highlights": ["Responsive Controls", "AI Opponents", "Special Moves"]
+      },
+      {
+        "title": "Player Customization",
+        "description": "Create your unique baller! Customize appearance, gear, and signature moves.",
+        "image": "images/img-2.png",
+        "highlights": [
+          "Outfit Options",
+          "Signature Skills",
+          "Attribute Upgrades"
+        ]
+      },
+      {
+        "title": "Park Challenges",
+        "description": "Complete daily challenges and earn rewards. Prove your skills in various game modes.",
+        "image": "images/img-3.png",
+        "highlights": ["Time Trials", "Trick Shot Contests", "Score Challenges"]
+      },
+      {
+        "title": "Unlock New Courts",
+        "description": "Progress through the game to unlock iconic streetball courts from around the world.",
+        "image": "images/img-4.png",
+        "highlights": [
+          "Urban Rooftops",
+          "Beachside Courts",
+          "Underground Arenas"
+        ]
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "How to Play",
+    "subtitle": "Your Playbook to Streetball Success",
+    "steps": [
+      {
+        "title": "Pick Your Player",
+        "description": "Choose your avatar and get ready to hit the courts. Start with basic skills and upgrade as you play.",
+        "icon": "🤾🏻‍♂️",
+        "tips": [
+          "Customize Appearance",
+          "Select Starting Attributes",
+          "Learn Basic Controls"
+        ]
+      },
+      {
+        "title": "Challenge Opponents",
+        "description": "Take on various opponents in 1v1 matches. Learn their weaknesses and exploit them.",
+        "icon": "🏀",
+        "tips": [
+          "Practice Dribbling",
+          "Improve Shooting Accuracy",
+          "Master Defense"
+        ]
+      },
+      {
+        "title": "Complete Challenges",
+        "description": "Test your skills in mini-games and special challenges to earn extra coins and experience.",
+        "icon": "📈",
+        "tips": [
+          "Aim for High Scores",
+          "Discover Hidden Tricks",
+          "Unlock Bonus Content"
+        ]
+      },
+      {
+        "title": "Dominate the Park",
+        "description": "Become the legend of the park by winning tournaments and unlocking all courts.",
+        "icon": "🌍",
+        "tips": ["Win Tournaments", "Unlock All Courts", "Become Park MVP"]
+      }
+    ]
+  },
+  "reviews": {
+    "title": "Player Reviews",
+    "subtitle": "What Our Community Says About Basketball Park",
+    "items": [
+      {
+        "author": "Streetball King",
+        "role": "Pro Player",
+        "avatar": "images/img-5.png",
+        "rating": 5,
+        "text": "This game truly captures the essence of streetball! The controls are smooth, and the competition is fierce.",
+        "date": "May 28, 2025",
+        "verified": true
+      },
+      {
+        "author": "Hoops Master",
+        "role": "Casual Gamer",
+        "avatar": "images/img-6.png",
+        "rating": 5,
+        "text": "So addictive! I love customizing my player and trying out new moves on different courts. Highly recommend!",
+        "date": "May 25, 2025",
+        "verified": true
+      },
+      {
+        "author": "Baller_Girl",
+        "role": "Newbie",
+        "avatar": "images/img-1.png",
+        "rating": 4,
+        "text": "Great game to pick up and play. The challenges keep it interesting, and I'm always trying to beat my high score.",
+        "date": "May 23, 2025",
+        "verified": true
+      },
+      {
+        "author": "Park Legend",
+        "role": "Competitive Player",
+        "avatar": "images/img-2.png",
+        "rating": 5,
+        "text": "Finally, a streetball game that delivers! The progression system is rewarding, and the online matches are a blast.",
+        "date": "May 20, 2025",
+        "verified": true
+      }
+    ],
+    "stats": [
+      {
+        "number": "4.7",
+        "label": "Average Rating"
+      },
+      {
+        "number": "100K+",
+        "label": "Active Players"
+      },
+      {
+        "number": "2M+",
+        "label": "Matches Played"
+      }
+    ]
+  },
+  "businessExpansion": {
+    "title": "Park Expansion",
+    "description": "Unlock new areas and features for your streetball experience",
+    "subtitle": "More Courts, More Challenges, More Fun!",
+    "features": [
+      {
+        "title": "World Tour Mode",
+        "description": "Travel the globe and challenge streetball legends in iconic locations",
+        "requirements": [
+          "Win Park Tournament",
+          "Max Player Level",
+          "Unlock All Basic Courts"
+        ]
+      },
+      {
+        "title": "Multiplayer Arena",
+        "description": "Compete against other players online in real-time PvP matches",
+        "requirements": [
+          "Reach Level 10",
+          "Strong Internet Connection",
+          "Complete Tutorial"
+        ]
+      },
+      {
+        "title": "Gear & Customization Shop",
+        "description": "Expand your wardrobe with exclusive gear and unlock unique customization options",
+        "requirements": [
+          "Earn Enough Coins",
+          "Complete Daily Challenges",
+          "Unlock New Achievements"
+        ]
+      },
+      {
+        "title": "Training Gym",
+        "description": "Improve your player's attributes and learn new skills with dedicated training modules",
+        "requirements": [
+          "Unlock Gym Access",
+          "Complete Training Missions",
+          "Invest Skill Points"
+        ]
+      }
+    ],
+    "image": "images/expansion.jpg"
+  },
+  "footer": {
+    "legal": {
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "url": "./privacy-terms.html"
+        },
+        {
+          "text": "Cookie Policy",
+          "url": "./cookie-terms.html"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact Us",
+      "email": "streetcoach@domain.com",
+      "address": "Queen Victoria Building, 455 George St, Sydney NSW 2000, Australia",
+      "phone": "+61 3 9614 1011"
+    },
+    "copyright": "© 2025 Domain.com | All rights reserved."
+  },
+  "airTrafficNews": {
+    "pageTitle": "Basketball Park News",
+    "description": "Latest updates from the world of streetball, new challenges, and player features",
+    "news": [
+      {
+        "title": "New Court: Rooftop Rumbles!",
+        "date": "2025-05-30",
+        "image": "images/img-3.png",
+        "summary": "Introducing a brand new urban rooftop court with unique challenges and stunning views.",
+        "content": "Get ready to take your game to new heights! Our latest update brings 'Rooftop Rumbles,' a dynamic new court set against a breathtaking city skyline. This court features new obstacles and environmental challenges that will test even the most seasoned streetballers.",
+        "highlights": [
+          "Unique Environmental Obstacles",
+          "New AI Opponent Tactics",
+          "Exclusive Rooftop Challenges",
+          "Earn Bonus XP on New Court"
+        ]
+      },
+      {
+        "title": "Player Customization Update!",
+        "date": "2025-05-28",
+        "image": "images/img-4.png",
+        "summary": "Express yourself with dozens of new outfits, accessories, and signature moves.",
+        "content": "Our biggest customization update yet is here! 'Style & Swag' allows you to truly make your player your own. We've added a vast collection of new jerseys, shorts, shoes, and hats, plus exciting new celebration dances and signature moves to show off on the court.",
+        "highlights": [
+          "Dozens of New Outfits",
+          "Unlock Rare Accessories",
+          "Signature Move Library Expansion",
+          "New Emotes and Celebrations"
+        ]
+      },
+      {
+        "title": "Ranked Matches Season 2 Starts Soon!",
+        "date": "2025-05-25",
+        "image": "images/img-5.png",
+        "summary": "Compete against the best in the park and climb the leaderboards for exclusive rewards.",
+        "content": "Get ready for the intensity of Ranked Matches Season 2! We've made improvements to matchmaking to ensure fairer and more competitive games. Top players will receive unique in-game titles, rare gear, and a special currency for the upcoming MVP shop.",
+        "highlights": [
+          "Improved Matchmaking System",
+          "New Seasonal Leaderboards",
+          "Exclusive Ranked Rewards",
+          "New MVP Shop Items"
+        ]
+      },
+      {
+        "title": "Community Spotlight: Park MVP!",
+        "date": "2025-05-20",
+        "image": "images/img-6.png",
+        "summary": "Highlighting our most dedicated player this month: 'HoopsHero99' and their incredible journey.",
+        "content": "This month, we're shining a spotlight on 'HoopsHero99', a true veteran of the park! Known for their incredible shooting accuracy and clutch plays, HoopsHero99 has dominated the leaderboards and inspired countless other players. Check out their pro tips and favorite builds on our official forums!",
+        "highlights": [
+          "Player Interviews & Tips",
+          "Top Plays of the Month",
+          "Fan Art Showcase",
+          "Upcoming Community Events"
+        ]
+      }
+    ],
+    "featuredArticle": {
+      "title": "The Future of Streetball in Gaming",
+      "subtitle": "Exploring innovations that will shape the next decade of park basketball games",
+      "image": "images/img-1.png",
+      "sections": [
+        {
+          "title": "Dynamic Weather & Environment",
+          "content": "Imagine playing on a court that changes with the weather—rain making dribbling harder, or sunlight affecting your aim. Future updates will bring more immersive environmental elements to each park, adding new layers to gameplay strategies.",
+          "icon": "🏀"
+        },
+        {
+          "title": "AI Opponent Personalities",
+          "content": "Our AI opponents will soon learn from your playstyle and adapt, developing unique personalities and tendencies. This means every match will feel fresh and unpredictable, pushing you to constantly evolve your game.",
+          "icon": "👥"
+        },
+        {
+          "title": "Community-Driven Content",
+          "content": "We're exploring ways for players to contribute to the game's evolution, from designing new court aesthetics to proposing unique challenges. Imagine playing on a court designed by a fellow player!",
+          "icon": "🤾🏻‍♂️"
+        },
+        {
+          "title": "Cross-Platform Park Play",
+          "content": "Soon, you'll be able to challenge friends and rivals across different platforms. The future of Basketball Park is about breaking down barriers and bringing streetball enthusiasts together, no matter where they play.",
+          "icon": "🛡️"
+        }
+      ],
+      "conclusion": "As we look to the future, Basketball Park is set to redefine the streetball gaming experience. We're committed to bringing more dynamic gameplay, deeper customization, and a stronger community focus. Get ready for the next era of streetball glory!"
+    }
+  }
+}
