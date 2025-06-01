@@ -91,7 +91,7 @@ body {
   align-items: center;
   text-align: center;
   padding: 20px;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
   background-attachment: fixed;
   color: white;
@@ -1781,6 +1781,15 @@ textarea.form-input {
 
   .privacy-section h2 {
     font-size: 1.8rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .menu-icon {
+    display: none;
+  }
+  .mobile-menu-button {
+    display: none;
   }
 }
 
